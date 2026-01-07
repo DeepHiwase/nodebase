@@ -18,3 +18,16 @@
   - Review & Merge
 
 ===
+
+- 3: tRPC Setup (data access layer)
+  [x] Setup tRPC v11
+  [x] Create a procedure with Prisma API
+  [x] Explore tRPC client-side
+  [x] Explore tRPC server-side
+  [x] Explore tRPC server + client (prefetch)
+  [x] Push to GitHub
+  - Create a new branch
+  - Create a new PR
+  - Review & Merge
+
+===
